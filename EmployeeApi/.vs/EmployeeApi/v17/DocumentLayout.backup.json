@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\migrations\\20260222075030_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\migrations\\20260222075030_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\deepak\\source\\repos\\employeeapi\\employeeapi\\data\\employeedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C0E267-82B2-42FB-8233-7246D25F38E5}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\data\\employeedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T11:47:40.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T11:47:17.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "EmployeeApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T07:18:39.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\appsettings.json",
+              "RelativeToolTip": "EmployeeApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-22T07:14:50.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:34:06.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj",
+              "RelativeDocumentMoniker": "EmployeeApi\\EmployeeApi.csproj",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj",
+              "RelativeToolTip": "EmployeeApi\\EmployeeApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-22T06:33:21.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T06:41:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeeApi\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T07:12:03.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeDbContextfactory.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Data\\EmployeeDbContextfactory.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Data\\EmployeeDbContextfactory.cs",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Data\\EmployeeDbContextfactory.cs",
+              "RelativeToolTip": "EmployeeApi\\Data\\EmployeeDbContextfactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T07:38:38.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260222075030_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Migrations\\20260222075030_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Migrations\\20260222075030_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Deepak\\source\\repos\\EmployeeApi\\EmployeeApi\\Migrations\\20260222075030_InitialCreate.cs",
+              "RelativeToolTip": "EmployeeApi\\Migrations\\20260222075030_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T07:50:30.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

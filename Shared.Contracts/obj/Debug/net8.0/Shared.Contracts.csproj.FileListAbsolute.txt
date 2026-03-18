@@ -1,0 +1,11 @@
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\bin\Debug\net8.0\Shared.Contracts.deps.json
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\bin\Debug\net8.0\Shared.Contracts.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\bin\Debug\net8.0\Shared.Contracts.pdb
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\obj\Debug\net8.0\Shared.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\obj\Debug\net8.0\Shared.Contracts.AssemblyInfoInputs.cache
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\obj\Debug\net8.0\Shared.Contracts.AssemblyInfo.cs
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\obj\Debug\net8.0\Shared.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\obj\Debug\net8.0\Shared.Contracts.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\obj\Debug\net8.0\refint\Shared.Contracts.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\obj\Debug\net8.0\Shared.Contracts.pdb
+C:\Users\Deepak\source\repos\ECommerceMicroservices\Shared.Contracts\obj\Debug\net8.0\ref\Shared.Contracts.dll
