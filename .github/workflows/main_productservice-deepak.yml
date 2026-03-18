@@ -10,30 +10,35 @@ on:
   workflow_dispatch:
 
 jobs:
-
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+    - name: Checkout Code
+      uses: actions/checkout@v4
 
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: '8.0.x'
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
 
-      - name: Restore
-        run: dotnet restore ProductService/ProductService.csproj
+    - name: Restore
+      run: dotnet restore ProductService/ProductService.csproj
 
-      - name: Build
-        run: dotnet build ProductService/ProductService.csproj --configuration Release --no-restore
+    - name: Build
+      run: dotnet build ProductService/ProductService.csproj --configuration Release --no-restore
 
-      - name: Publish
-        run: dotnet publish ProductService/ProductService.csproj -c Release -o publish
+    - name: Publish
+      run: dotnet publish ProductService/ProductService.csproj -c Release -o publish
 
-      - name: Deploy to Azure
-        uses: azure/webapps-deploy@v2
-        with:
-          app-name: productservice-deepak
-          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-          package: publish
+    # ⭐ VERY IMPORTANT LOGIN STEP ⭐
+    - name: Azure Login
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+    - name: Deploy to Azure Web App
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: productservice-deepak
+        package: publish
