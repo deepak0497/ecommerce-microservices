@@ -21,6 +21,8 @@ namespace ProductService.Controllers
         [HttpGet]
         public IActionResult GetProducts()
         {      
+            Console.WriteLine("Received request to retrieve all products.");
+            Console.WriteLine("Retrieving all products from the database.");
 
             _logger.LogInformation("Retrieving all products from the database.");
             var products = _context.Products.ToList();
