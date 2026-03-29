@@ -18,19 +18,19 @@ namespace ProductService.Controllers
              _logger = logger;
             _context = context;
             }
-        [HttpGet]
-        public IActionResult GetProducts()
-        {      
-            Console.WriteLine("Received request to retrieve all products.");
-            Console.WriteLine("Retrieving all products from the database.");
+        //[HttpGet]
+        //public IActionResult GetProducts()
+        //{      
+        //    Console.WriteLine("Received request to retrieve all products.");
+        //    Console.WriteLine("Retrieving all products from the database.");
 
-            _logger.LogInformation("Retrieving all products from the database.");
-            var products = _context.Products.ToList();
-            return Ok(products);
+        //    _logger.LogInformation("Retrieving all products from the database.");
+        //    var products = _context.Products.ToList();
+        //    return Ok(products);
 
-            // Logic to retrieve products from the database
-            //  return Ok(new[] { new { Id = Guid.NewGuid(), Name = "Sample Product", Price = 9.99m, Stock = 100, Description = "This is a sample product.", CreatedAt = DateTime.UtcNow } });
-        }
+        //    // Logic to retrieve products from the database
+        //    //  return Ok(new[] { new { Id = Guid.NewGuid(), Name = "Sample Product", Price = 9.99m, Stock = 100, Description = "This is a sample product.", CreatedAt = DateTime.UtcNow } });
+        //}
 
         [HttpGet("{id}")]  
             public IActionResult GetProduct(Guid id)
