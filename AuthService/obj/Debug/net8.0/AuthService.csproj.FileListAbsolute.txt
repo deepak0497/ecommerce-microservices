@@ -133,10 +133,10 @@ C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\AuthServ.2ED0AEC6.Up2Date
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\AuthService.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\refint\AuthService.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\AuthService.pdb
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\AuthService.genruntimeconfig.cache
 C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\ref\AuthService.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\AuthService\obj\Debug\net8.0\AuthService.sourcelink.json

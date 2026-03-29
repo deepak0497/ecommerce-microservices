@@ -131,7 +131,6 @@ C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\ProductS.A0FC5512.Up2Date
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\ProductService.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\refint\ProductService.dll
@@ -139,3 +138,13 @@ C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\ProductService.genruntimeconfig.cache
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\ref\ProductService.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\ProductService.sourcelink.json
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ProductService\bin\Debug\net8.0\Serilog.Sinks.File.dll

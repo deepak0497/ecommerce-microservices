@@ -9,3 +9,4 @@ C:\Users\Deepak\source\repos\ECommerceMicroservices\BuildingBlocks\obj\Debug\net
 C:\Users\Deepak\source\repos\ECommerceMicroservices\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
 C:\Users\Deepak\source\repos\ECommerceMicroservices\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.sourcelink.json

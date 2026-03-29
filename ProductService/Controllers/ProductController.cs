@@ -11,17 +11,21 @@ namespace ProductService.Controllers
         [Route("api/products")]
         public class ProductsController : ControllerBase
         {
-
-            private readonly ProductDbContext _context;
-            public ProductsController(ProductDbContext context)
+        private readonly ILogger<ProductsController> _logger;
+        private readonly ProductDbContext _context;
+            public ProductsController(ProductDbContext context , ILogger<ProductsController> logger)
             {
-                _context = context;
+             _logger = logger;
+            _context = context;
             }
         [HttpGet]
         public IActionResult GetProducts()
-        {
+        {      
+
+            _logger.LogInformation("Retrieving all products from the database.");
             var products = _context.Products.ToList();
             return Ok(products);
+
             // Logic to retrieve products from the database
             //  return Ok(new[] { new { Id = Guid.NewGuid(), Name = "Sample Product", Price = 9.99m, Stock = 100, Description = "This is a sample product.", CreatedAt = DateTime.UtcNow } });
         }

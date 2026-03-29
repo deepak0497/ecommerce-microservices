@@ -35,10 +35,10 @@ C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
 C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\ApiGateway\obj\Debug\net8.0\ApiGateway.sourcelink.json

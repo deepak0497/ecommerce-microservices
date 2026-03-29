@@ -28,10 +28,10 @@ C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\PaymentS.0CEDD34D.Up2Date
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\refint\PaymentService.dll
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.pdb
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.genruntimeconfig.cache
 C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\ref\PaymentService.dll
+C:\Users\Deepak\source\repos\ECommerceMicroservices\PaymentService\obj\Debug\net8.0\PaymentService.sourcelink.json
